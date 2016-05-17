@@ -6,3 +6,6 @@ using System.Resources;
 
 [assembly: AssemblyMetadata("Serviceable", "False")]
 [assembly: NeutralResourcesLanguage("en-us")]
+[assembly: AssemblyCompany("Barry Dorrans.")]
+[assembly: AssemblyCopyright("© Barry Dorrans. All rights reserved.")]
+[assembly: AssemblyProduct("idunno.Authentication")]
