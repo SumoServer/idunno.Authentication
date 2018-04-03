@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Description>ASP.NET 5 middleware that enables an application to support Basic authentication workflow.</Description>
-    <TargetFrameworks>netcoreapp2.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <AssemblyName>idunno.Authentication</AssemblyName>
     <PackageId>idunno.Authentication</PackageId>
